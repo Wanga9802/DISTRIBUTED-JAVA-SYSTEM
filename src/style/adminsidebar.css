@@ -1,0 +1,42 @@
+
+.sidebar{
+    width: 200px;
+    max-width: 200px;
+    min-height: 100vh;
+    background: linear-gradient(180deg, #245154 0%, #1e293b 55%, #181c3bb8 100%) !important;
+}
+
+.sidebar .nav {
+    width: 170px;
+    margin-inline: auto;
+}
+
+.sidebar .nav-link {
+    justify-content: flex-start;
+}
+
+.sidebar .nav-link i {
+    width: 20px;
+    text-align: center;
+}
+.sidebar .nav-link:hover {
+    background-color: #1e293b;
+    color: #fff;
+    border-radius: 10px;
+    border-left: 2px solid #fff;
+}
+
+.sidebar .nav-link.active {
+    background-color: #1e293b;
+    color: #fff;
+    border-radius: 10px;
+    border-left: 2px solid #fff;
+}
+
+.tutu-tutu{
+
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+

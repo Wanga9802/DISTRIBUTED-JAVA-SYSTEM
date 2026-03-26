@@ -1,0 +1,35 @@
+
+.navbar{
+    
+    
+
+}
+
+.tutu-tut{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+.avatar-circle{
+    width:25px;
+    height:25px;
+    border-radius:50%;
+    background-color:#1e293b;
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:bold;
+}
+.toto-sitoto{
+    background: none !important;
+}
+.lel-sisi{
+    padding: 1px !important;
+    margin:  1px !important;
+}
+
+.lel-sisi .dropdown-item{
+    margin: 0;
+    padding: 0.3rem 0.7rem;
+}

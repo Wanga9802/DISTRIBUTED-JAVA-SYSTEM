@@ -1,0 +1,26 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+.login-page {
+  min-height: 100vh;
+}
+
+.card {
+  width: 300px;
+}
+
+body {
+ background: linear-gradient(90deg,  #245154 , #1e293b , #181c3bb8);
+
+}
+.watu-wengi{
+    color: #245154 !important;
+}
+.zetuzetu{
+    background: #1e293b !important;
+    border: none !important;
+}

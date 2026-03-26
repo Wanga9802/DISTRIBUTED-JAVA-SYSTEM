@@ -1,12 +1,13 @@
 
 import './App.css'
+import Approuter from './routes/Approute.jsx'
 
 function App() {
-  
-
   return (
     <>
-         
+    
+    <Approuter />
+   
     </>
   )
 }
